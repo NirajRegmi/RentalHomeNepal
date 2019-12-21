@@ -1,5 +1,7 @@
 {
   "name": "RentalHomeNepal",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
